@@ -2,14 +2,14 @@
 
 <body>
 
-<command>
-<cupdatetime>10</cupdatetime>
-<cchannelicon>0</cchannelicon>
-<cmoduleswitch>0</cmoduleswitch>
-</command>
-<tvcategory>
-</tvcategory>
-<tvchannels>
-</tvchannels>
+<cmd>
+<cut>3600</cut>
+<cci>0</cci>
+<cms>0</cms>
+</cmd>
+<tvc>
+</tvc>
+<tvcs>
+</tvcs>
 
 </body>
